@@ -184,7 +184,7 @@ telegram: dinhlongit
 **QUAN TRỌNG: Trước khi viết bất kỳ bài nào, BẮT BUỘC phải đọc NGẪU NHIÊN ít nhất 10 bài viết mẫu để nắm chính xác style LongDNA.**
 
 Thư mục chứa bài viết mẫu:
-- ../viblo_articles/
+- ./viblo_articles/
 
 Cách thực hiện:
 1. List tất cả file .md trong thư mục trên

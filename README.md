@@ -12,10 +12,10 @@ Agent skill để viết bài technical blog tiếng Việt theo style LongDNA/D
 ## Cấu trúc
 
 ```
-├── vietnamese-tech-writer/
-│   ├── SKILL.md          # Định nghĩa skill chính
-│   └── EXAMPLES.md       # Ví dụ về style
-└── viblo_articles/       # Bài viết mẫu để tham khảo
+└── vietnamese-tech-writer/
+    ├── SKILL.md          # Định nghĩa skill chính
+    ├── EXAMPLES.md       # Ví dụ về style
+    └── viblo_articles/   # Bài viết mẫu để tham khảo
 ```
 
 ## Tích hợp
