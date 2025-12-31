@@ -1,6 +1,6 @@
 # Vietnamese Tech Writer Skill
 
-Agent skill để viết bài technical blog tiếng Việt theo style LongDNA/DinhLongIT.
+Agent skill để viết bài technical blog tiếng Việt theo style tự nhiên!
 
 ## Tính năng
 
