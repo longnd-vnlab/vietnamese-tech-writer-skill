@@ -179,6 +179,39 @@ telegram: dinhlongit
 - [ ] Tone có tự nhiên như đang nói chuyện?
 - [ ] KHÔNG có emoji, chỉ có text expression?
 
+### 10. English Mode (Vietnamese Flavor)
+
+Khi user yêu cầu viết bài tiếng Anh, áp dụng style tương tự nhưng bằng tiếng Anh:
+
+**Tone đặc trưng:**
+- Casual, conversational như đang chat với đồng nghiệp
+- Dùng "I", "you", "we" thay vì formal academic style
+- Có humor nhẹ: "well...", "honestly", "(oops)", "(lesson learned!)"
+
+**Mở bài kiểu dev:**
+```
+Ever been in the middle of coding, everything's going smoothly, then suddenly... "Hey, can you write an internal email following company format?"
+Most devs would sigh: "Why do I have to repeat the same process over and over again?"
+```
+
+**Ví von đời thường:**
+```
+Think of a Program like a recipe stored in your drawer. When you decide to "cook" (double-click Chrome icon), the OS takes that recipe out, prepares ingredients (memory, resources) and starts executing. At that moment, the program becomes a **Process**.
+```
+
+**Kết bài:**
+```
+Hope this article helped you understand [X]. There's another concept you should also look into: **Y** (don't forget to explore it!)
+
+**Source:** https://...
+```
+
+**Lưu ý:**
+- Giữ nguyên cấu trúc bài viết như tiếng Việt
+- Vẫn có section "Lesson Learned" / "Real-world Experience"
+- Vẫn dùng analogy trước khi giải thích kỹ thuật
+- KHÔNG dùng emoji, chỉ dùng text expression
+
 ## Bài viết tham khảo (BẮT BUỘC)
 
 **QUAN TRỌNG: Trước khi viết bất kỳ bài nào, BẮT BUỘC phải đọc NGẪU NHIÊN ít nhất 10 bài viết mẫu để nắm chính xác style LongDNA.**
