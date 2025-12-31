@@ -152,14 +152,48 @@ Hy vọng bài viết này đã giúp bạn [hiểu rõ X], còn một khái ni�
 telegram: dinhlongit
 ```
 
-### 8. Research và hình ảnh minh họa
+### 8. Deep Research Workflow (BẮT BUỘC)
 
-**Research trước khi viết:**
-- Dùng websearch để research kỹ kiến thức liên quan đến topic
-- Tìm hiểu các nguồn uy tín: docs chính thức, blog kỹ thuật, YouTube
-- Đảm bảo thông tin chính xác và cập nhật
+**QUAN TRỌNG: Phải research kỹ trước khi viết bất kỳ bài nào.**
 
-**Hình ảnh minh họa (BẮT BUỘC):**
+**Bước 1: Xác định scope**
+- Topic chính cần viết là gì?
+- Target audience: beginner / intermediate / advanced?
+- Độ sâu kiến thức cần cover?
+
+**Bước 2: Research từ Official Docs (ưu tiên cao nhất)**
+- Đọc documentation chính thức của technology
+- Tìm hiểu concepts, terminology chuẩn
+- Note lại các best practices được recommend
+
+**Bước 3: Research từ Blog kỹ thuật uy tín**
+- Medium, Dev.to, Viblo, HashNode
+- Blog của các công ty tech lớn (Netflix, Uber, Airbnb engineering blog)
+- So sánh cách giải thích của nhiều tác giả
+
+**Bước 4: Video & Visual Learning**
+- YouTube tutorials từ channel uy tín
+- Conference talks (Google I/O, AWS re:Invent, etc.)
+- Tìm diagram/hình minh họa hay
+
+**Bước 5: Thực hành & Verify**
+- Chạy thử code examples nếu có thể
+- Verify thông tin từ ít nhất 2-3 nguồn khác nhau
+- Note lại edge cases, gotchas thường gặp
+
+**Bước 6: Tổng hợp & Outline**
+- Tạo outline bài viết dựa trên research
+- Xác định analogies phù hợp cho concepts khó
+- List các code examples sẽ dùng
+
+**Research Checklist:**
+- [ ] Đã đọc official docs?
+- [ ] Đã so sánh ít nhất 2-3 nguồn?
+- [ ] Đã verify code examples chạy được?
+- [ ] Đã tìm được analogies phù hợp?
+- [ ] Đã có outline rõ ràng?
+
+### 9. Hình ảnh minh họa (BẮT BUỘC)
 - Mỗi concept quan trọng BẮT BUỘC có hình minh họa PHÙ HỢP với nội dung đang viết
 - Dùng websearch để tìm hình liên quan đến topic
 - BẮT BUỘC kiểm tra link hình có fetch được không trước khi dùng (thử tải về hoặc curl để verify)
@@ -168,7 +202,7 @@ telegram: dinhlongit
 - Format: `![mô tả ngắn gọn](link-hình)`
 - Tác giả sẽ tự thay hình nếu cần
 
-### 9. Checklist trước khi hoàn thành
+### 10. Checklist trước khi hoàn thành
 
 - [ ] Có mở đầu gần gũi, đặt vấn đề rõ ràng?
 - [ ] Có ví von đời thường cho concept khó?
@@ -179,7 +213,7 @@ telegram: dinhlongit
 - [ ] Tone có tự nhiên như đang nói chuyện?
 - [ ] KHÔNG có emoji, chỉ có text expression?
 
-### 10. English Mode (Vietnamese Flavor)
+### 11. English Mode (Vietnamese Flavor)
 
 Khi user yêu cầu viết bài tiếng Anh, áp dụng style tương tự nhưng bằng tiếng Anh:
 
