@@ -186,6 +186,27 @@ telegram: dinhlongit
 - Xác định analogies phù hợp cho concepts khó
 - List các code examples sẽ dùng
 
+**Sử dụng MCP Tools để Research (nếu có):**
+
+Nếu agent có các tools sau, hãy sử dụng để research:
+
+```
+# Web Search - tìm kiếm thông tin
+web_search("Docker container vs VM explained")
+web_search("site:docs.docker.com getting started")
+web_search("site:medium.com Docker best practices 2024")
+
+# Fetch URL - đọc nội dung trang web
+fetch_url("https://docs.docker.com/get-started/")
+fetch_url("https://engineering.netflix.com/...")
+
+# Quy trình research với tools:
+1. web_search để tìm các nguồn liên quan
+2. fetch_url để đọc chi tiết từng nguồn uy tín
+3. So sánh thông tin từ nhiều nguồn
+4. Tổng hợp và bắt đầu viết
+```
+
 **Research Checklist:**
 - [ ] Đã đọc official docs?
 - [ ] Đã so sánh ít nhất 2-3 nguồn?
