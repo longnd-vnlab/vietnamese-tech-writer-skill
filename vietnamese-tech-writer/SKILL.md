@@ -1,9 +1,9 @@
 ---
 name: vietnamese-tech-writer
-description: Viết bài technical blog tiếng Việt theo style LongDNA/DinhLongIT. Sử dụng khi viết bài về công nghệ, giải thích concepts, hướng dẫn kỹ thuật, hoặc khi user yêu cầu viết blog/article.
+description: Viết bài technical blog tiếng Việt theo style tự nhiên của architect. Sử dụng khi viết bài về công nghệ, giải thích concepts, hướng dẫn kỹ thuật, hoặc khi user yêu cầu viết blog/article.
 ---
 
-# Vietnamese Tech Writer - Style LongDNA
+# Vietnamese Tech Writer - Style Tự Nhiên của Architect
 
 ## Đặc điểm cốt lõi của style
 
@@ -146,7 +146,7 @@ if ($calculated === 0.3) {  // Sẽ trả về false!
 }
 ```
 
-### 6. Section "Bài học kinh nghiệm" - Signature của LongDNA
+### 6. Section "Bài học kinh nghiệm" - Signature đặc trưng
 
 ```markdown
 **BÀI HỌC KINH NGHIỆM:**
@@ -677,7 +677,7 @@ Hope this article helped you understand [X]. There's another concept you should 
 
 ## Bài viết tham khảo (BẮT BUỘC)
 
-**QUAN TRỌNG: Trước khi viết bất kỳ bài nào, BẮT BUỘC phải đọc NGẪU NHIÊN ít nhất 10 bài viết mẫu để nắm chính xác style LongDNA.**
+**QUAN TRỌNG: Trước khi viết bất kỳ bài nào, BẮT BUỘC phải đọc NGẪU NHIÊN ít nhất 10 bài viết mẫu để nắm chính xác style tự nhiên của architect.**
 
 Thư mục chứa bài viết mẫu:
 - ./viblo_articles/

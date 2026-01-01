@@ -1,6 +1,6 @@
 # Article Templates - Vietnamese Tech Writer
 
-Các template cho các loại bài viết phổ biến theo style LongDNA.
+Các template cho các loại bài viết phổ biến theo style tự nhiên của architect viết blog.
 
 ---
 
@@ -557,4 +557,4 @@ telegram: dinhlongit
 ---
 
 Các template này linh hoạt, có thể mix-match tùy nội dung.
-Quan trọng là giữ được **style LongDNA** đặc trưng!
+Quan trọng là giữ được **style tự nhiên của architect** đặc trưng!

@@ -5,7 +5,7 @@ Agent skill để viết bài technical blog tiếng Việt theo style tự nhi�
 ## Tính năng
 
 **Core Features:**
-- Style LongDNA đặc trưng - tone thân thiện như đang chat với đồng nghiệp
+- Style tự nhiên của architect viết blog - tone thân thiện như đang chat với đồng nghiệp
 - Ví von đời thường để giải thích concept kỹ thuật
 - Quy trình research chuyên nghiệp với MCP tools
 - Template chuẩn cho 5 loại bài viết
@@ -87,7 +87,7 @@ Sau khi tích hợp, yêu cầu agent viết bài:
 Viết bài về Docker cho người mới bắt đầu
 ```
 
-Agent sẽ tự động áp dụng style LongDNA với:
+Agent sẽ tự động áp dụng style tự nhiên với:
 - Mở đầu gần gũi, đặt vấn đề thực tế
 - Ví von đời thường trước khi giải thích kỹ thuật
 - Code example thực tế, đã verify
@@ -148,7 +148,7 @@ Skill này có Pre-Publish Quality Gate với 23 checkpoints:
 - Thêm self-check format cho agents
 
 **v1.0 - Initial Release:**
-- Style guide với tone LongDNA
+- Style guide với tone tự nhiên của architect
 - 29 bài viết mẫu từ Viblo
 - Deep research workflow
 - English mode support
